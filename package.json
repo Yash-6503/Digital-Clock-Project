@@ -1,0 +1,19 @@
+{
+  "name": "js-projects",
+  "version": "1.0.0",
+  "description": "This Project includes languages such as HTML, CSS, JavaScript, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-6503/Digital-Clock-Project.git"
+  },
+  "author": "Dev.Yash Walke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yash-6503/Digital-Clock-Project/issues"
+  },
+  "homepage": "https://github.com/Yash-6503/Digital-Clock-Project#readme"
+}
